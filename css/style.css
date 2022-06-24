@@ -1,0 +1,90 @@
+.tHeader{
+	color:#d0e6f6;
+}
+.tHeader:hover{
+	color:white;
+}
+
+.dropApple{
+	color:#DC4C3F;
+}
+.dropApple:hover{
+	color: #FFBFB9;
+	font-weight: 600;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+	background-color: rgba(0,0,0,0.2);
+}
+.bgFooter{
+	background-color: #1a202b;
+	color: #d0e6f6;
+}
+.dropActiveApple{
+	font-weight:600;
+}
+.btnApple{
+	border-radius: 5px !important;
+	background-color:#3060a5;
+	border:1px solid #3060a5;
+	padding:3px;
+	text-decoration: none;
+}
+.close{
+	background-color:gray;
+	border:1px solid black;
+}
+.btnApple:hover{
+	background-color: rgba(220,76,63,1);
+	border:1px solid #3060a5;
+}
+.btnApple:active{
+	background-color: rgba(220,76,63,0.2) !important;
+	border:1px solid #3060a5 !important;
+	box-shadow: 0 0 0 0.25rem rgba(220, 76, 63, 0.5) !important;
+}
+.btn-check:focus + .btn-primary, .btn-primary:focus {
+	color: #0c56cf;
+	background-color: #3060a5;
+	border-color: #3060a5;
+	box-shadow: 0 0 0 0.25rem rgba(220, 76, 63, 0.5);
+}
+button:click{
+	border:1px solid #3060a5 !important;
+}
+footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    width: 100%;
+    height: 114px;
+}
+.even{
+    background-color: #7091c7;
+}
+.odd{
+	background-color: #8faee0;
+}
+.dataTables_info{
+}
+
+.paginate_button{
+}
+
+.u-text{
+	color: #d0e6f6;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.active{
+	background: #1266f1 !important;
+}
+
+.show {
+    background-color:yellow;   
+}
+
+#searcher { position:fixed; top:10px; right:10px; }
+
+.Sanya {
+	background: #262c33; border-radius: 20px; border: 10px solid #2e3d4d;
+}
